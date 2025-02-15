@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/app.4eqt1h93c4.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4eqt1h93c4"},{"Name":"integrity","Value":"sha256-JADu1vuHNYTD5PULmolDvWjgoijVnjEZdtrW01sYkVk="},{"Name":"label","Value":"_content/IconGeneratorAI.WebApp/app.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"112509"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JADu1vuHNYTD5PULmolDvWjgoijVnjEZdtrW01sYkVk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 19:27:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/app.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JADu1vuHNYTD5PULmolDvWjgoijVnjEZdtrW01sYkVk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"112509"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JADu1vuHNYTD5PULmolDvWjgoijVnjEZdtrW01sYkVk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 19:27:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/favicon.ifv42okdf2.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ifv42okdf2"},{"Name":"integrity","Value":"sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="},{"Name":"label","Value":"_content/IconGeneratorAI.WebApp/favicon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 19:27:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/favicon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1148"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 19:27:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/IconGeneratorAI.WebApp.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IconGeneratorAI.WebApp.vt3guu9cal.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Yx38t\u002BGSglEsKl2auZp68nEteyjoFA1rPJczzwTZfVg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9910"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Yx38t\u002BGSglEsKl2auZp68nEteyjoFA1rPJczzwTZfVg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 20:46:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/IconGeneratorAI.WebApp.vt3guu9cal.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\IconGeneratorAI.WebApp.vt3guu9cal.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vt3guu9cal"},{"Name":"integrity","Value":"sha256-Yx38t\u002BGSglEsKl2auZp68nEteyjoFA1rPJczzwTZfVg="},{"Name":"label","Value":"_content/IconGeneratorAI.WebApp/IconGeneratorAI.WebApp.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9910"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Yx38t\u002BGSglEsKl2auZp68nEteyjoFA1rPJczzwTZfVg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 20:46:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/icons/magic-stick-3-svgrepo-com.jw5zx9xdc0.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\magic-stick-3-svgrepo-com.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jw5zx9xdc0"},{"Name":"integrity","Value":"sha256-XSJD\u002BbCLRL2MYtdfd4i2XzhFofV6IGyeweRlHMxk59g="},{"Name":"label","Value":"_content/IconGeneratorAI.WebApp/icons/magic-stick-3-svgrepo-com.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2470"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022XSJD\u002BbCLRL2MYtdfd4i2XzhFofV6IGyeweRlHMxk59g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 19:27:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/IconGeneratorAI.WebApp/icons/magic-stick-3-svgrepo-com.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\magic-stick-3-svgrepo-com.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XSJD\u002BbCLRL2MYtdfd4i2XzhFofV6IGyeweRlHMxk59g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2470"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022XSJD\u002BbCLRL2MYtdfd4i2XzhFofV6IGyeweRlHMxk59g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Feb 2025 19:27:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

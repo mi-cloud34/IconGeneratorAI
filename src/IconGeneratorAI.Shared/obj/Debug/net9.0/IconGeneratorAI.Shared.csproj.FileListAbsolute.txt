@@ -1,0 +1,11 @@
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\bin\Debug\net9.0\IconGeneratorAI.Shared.deps.json
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\bin\Debug\net9.0\IconGeneratorAI.Shared.dll
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\bin\Debug\net9.0\IconGeneratorAI.Shared.pdb
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\IconGeneratorAI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\IconGeneratorAI.Shared.AssemblyInfoInputs.cache
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\IconGeneratorAI.Shared.AssemblyInfo.cs
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\IconGeneratorAI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\IconGeneratorAI.Shared.dll
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\refint\IconGeneratorAI.Shared.dll
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\IconGeneratorAI.Shared.pdb
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Shared\obj\Debug\net9.0\ref\IconGeneratorAI.Shared.dll

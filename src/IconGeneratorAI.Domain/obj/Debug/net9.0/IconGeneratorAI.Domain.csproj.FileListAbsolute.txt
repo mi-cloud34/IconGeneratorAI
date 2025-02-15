@@ -1,0 +1,12 @@
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\bin\Debug\net9.0\IconGeneratorAI.Domain.deps.json
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\bin\Debug\net9.0\IconGeneratorAI.Domain.dll
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\bin\Debug\net9.0\IconGeneratorAI.Domain.pdb
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.csproj.AssemblyReference.cache
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.AssemblyInfoInputs.cache
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.AssemblyInfo.cs
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.dll
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\refint\IconGeneratorAI.Domain.dll
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.pdb
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\ref\IconGeneratorAI.Domain.dll

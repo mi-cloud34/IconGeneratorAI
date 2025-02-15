@@ -1,0 +1,449 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\IconGeneratorAI.WebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\IconGeneratorAI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\IconGeneratorAI.Domain.csproj",
+        "projectName": "IconGeneratorAI.Domain",
+        "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\IconGeneratorAI.Domain.csproj",
+        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Persistence\\IconGeneratorAI.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Persistence\\IconGeneratorAI.Persistence.csproj",
+        "projectName": "IconGeneratorAI.Persistence",
+        "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Persistence\\IconGeneratorAI.Persistence.csproj",
+        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\IconGeneratorAI.Domain.csproj": {
+                "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\IconGeneratorAI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "EFCore.NamingConventions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\IconGeneratorAI.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\IconGeneratorAI.Shared.csproj",
+        "projectName": "IconGeneratorAI.Shared",
+        "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\IconGeneratorAI.Shared.csproj",
+        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp.Client\\IconGeneratorAI.WebApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp.Client\\IconGeneratorAI.WebApp.Client.csproj",
+        "projectName": "IconGeneratorAI.WebApp.Client",
+        "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp.Client\\IconGeneratorAI.WebApp.Client.csproj",
+        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\IconGeneratorAI.Domain.csproj": {
+                "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Domain\\IconGeneratorAI.Domain.csproj"
+              },
+              "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\IconGeneratorAI.Shared.csproj": {
+                "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\IconGeneratorAI.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.FluentUI.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[4.11.3, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[9.0.2, 9.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\IconGeneratorAI.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\IconGeneratorAI.WebApp.csproj",
+        "projectName": "IconGeneratorAI.WebApp",
+        "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\IconGeneratorAI.WebApp.csproj",
+        "packagesPath": "C:\\Users\\mesut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mesut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Persistence\\IconGeneratorAI.Persistence.csproj": {
+                "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Persistence\\IconGeneratorAI.Persistence.csproj"
+              },
+              "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\IconGeneratorAI.Shared.csproj": {
+                "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.Shared\\IconGeneratorAI.Shared.csproj"
+              },
+              "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp.Client\\IconGeneratorAI.WebApp.Client.csproj": {
+                "projectPath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp.Client\\IconGeneratorAI.WebApp.Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.23.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.FluentUI.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[4.11.3, )"
+            },
+            "Microsoft.SemanticKernel": {
+              "target": "Package",
+              "version": "[1.33.0, )"
+            },
+            "Microsoft.SemanticKernel.Connectors.Ollama": {
+              "target": "Package",
+              "version": "[1.33.0-alpha, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

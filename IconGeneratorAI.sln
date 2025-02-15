@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6E296ED7-4362-4D01-BBAB-ED0CF4C94A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconGeneratorAI.WebApp", "src\IconGeneratorAI.WebApp\IconGeneratorAI.WebApp.csproj", "{9BAB3C92-64D1-48E1-81F2-6E308489EAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconGeneratorAI.WebApp.Client", "src\IconGeneratorAI.WebApp.Client\IconGeneratorAI.WebApp.Client.csproj", "{CE77FF2B-5280-45E2-A627-E71499983D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconGeneratorAI.Domain", "src\IconGeneratorAI.Domain\IconGeneratorAI.Domain.csproj", "{485CDA25-EFAE-487A-8EA4-11F9A6FDDE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconGeneratorAI.Persistence", "src\IconGeneratorAI.Persistence\IconGeneratorAI.Persistence.csproj", "{00BA8CFE-8F7F-4D94-8C57-2390B2FBBA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconGeneratorAI.Shared", "src\IconGeneratorAI.Shared\IconGeneratorAI.Shared.csproj", "{A49E3CD8-6510-47B4-B6BA-7A0B03348BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAB3C92-64D1-48E1-81F2-6E308489EAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAB3C92-64D1-48E1-81F2-6E308489EAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAB3C92-64D1-48E1-81F2-6E308489EAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAB3C92-64D1-48E1-81F2-6E308489EAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE77FF2B-5280-45E2-A627-E71499983D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE77FF2B-5280-45E2-A627-E71499983D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE77FF2B-5280-45E2-A627-E71499983D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE77FF2B-5280-45E2-A627-E71499983D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485CDA25-EFAE-487A-8EA4-11F9A6FDDE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485CDA25-EFAE-487A-8EA4-11F9A6FDDE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485CDA25-EFAE-487A-8EA4-11F9A6FDDE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485CDA25-EFAE-487A-8EA4-11F9A6FDDE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BA8CFE-8F7F-4D94-8C57-2390B2FBBA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BA8CFE-8F7F-4D94-8C57-2390B2FBBA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BA8CFE-8F7F-4D94-8C57-2390B2FBBA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BA8CFE-8F7F-4D94-8C57-2390B2FBBA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49E3CD8-6510-47B4-B6BA-7A0B03348BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49E3CD8-6510-47B4-B6BA-7A0B03348BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49E3CD8-6510-47B4-B6BA-7A0B03348BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49E3CD8-6510-47B4-B6BA-7A0B03348BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9BAB3C92-64D1-48E1-81F2-6E308489EAA0} = {6E296ED7-4362-4D01-BBAB-ED0CF4C94A31}
+		{CE77FF2B-5280-45E2-A627-E71499983D01} = {6E296ED7-4362-4D01-BBAB-ED0CF4C94A31}
+		{485CDA25-EFAE-487A-8EA4-11F9A6FDDE85} = {6E296ED7-4362-4D01-BBAB-ED0CF4C94A31}
+		{00BA8CFE-8F7F-4D94-8C57-2390B2FBBA40} = {6E296ED7-4362-4D01-BBAB-ED0CF4C94A31}
+		{A49E3CD8-6510-47B4-B6BA-7A0B03348BA9} = {6E296ED7-4362-4D01-BBAB-ED0CF4C94A31}
+	EndGlobalSection
+EndGlobal

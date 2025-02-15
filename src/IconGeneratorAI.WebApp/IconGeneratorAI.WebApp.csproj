@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-IconGeneratorAI.WebApp-9f150655-4c80-4463-ab8d-13585e0fd2bb</UserSecretsId>
+     <NoWarn>SKEXP0070</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.23.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="9.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.1">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components" Version="4.11.3" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="1.33.0" />
+    <PackageReference Include="Microsoft.SemanticKernel.Connectors.Ollama" Version="1.33.0-alpha" />
+    <ProjectReference Include="..\IconGeneratorAI.Persistence\IconGeneratorAI.Persistence.csproj" />
+    <ProjectReference Include="..\IconGeneratorAI.Shared\IconGeneratorAI.Shared.csproj" />
+    <ProjectReference Include="..\IconGeneratorAI.WebApp.Client\IconGeneratorAI.WebApp.Client.csproj" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\icons\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IconGeneratorAI.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IconGeneratorAI.WebApp.vt3guu9cal.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\magic-stick-3-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\icons\\magic-stick-3-svgrepo-com.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IconGeneratorAI.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IconGeneratorAI.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.IconGeneratorAI.WebApp.props",
+      "PackagePath": "build\\IconGeneratorAI.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.IconGeneratorAI.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\IconGeneratorAI.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.IconGeneratorAI.WebApp.props",
+      "PackagePath": "buildTransitive\\IconGeneratorAI.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
