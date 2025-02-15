@@ -23,7 +23,7 @@ This project leverages **Ollama** for text generation and **Replicate** for AI-d
 ## 🚀 Getting Started
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mi-cloud34/IconGeneratorAI.git
 
 # Navigate to the project directory
 cd your-repo
