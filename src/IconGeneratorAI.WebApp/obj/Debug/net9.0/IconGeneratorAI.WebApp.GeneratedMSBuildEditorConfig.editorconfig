@@ -180,6 +180,42 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/FAQSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxGQVFTZWN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/FeaturesSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxGZWF0dXJlc1NlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/FinalCTASection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxGaW5hbENUQVNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/HeroSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxIZXJvU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/PricingSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxQcmljaW5nU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/ProblemSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxQcm9ibGVtU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/SocialProofSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxTb2NpYWxQcm9vZlNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/LandingPage/SolutionSection.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYW5kaW5nUGFnZVxTb2x1dGlvblNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/Layout/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/Layout/Navbar.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2YmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -200,8 +236,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/Pages/IconResultFinalPage.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJY29uUmVzdWx0RmluYWxQYWdlLnJhem9y
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/Pages/IconResultsServer.razor]
@@ -228,6 +264,6 @@ build_metadata.AdditionalFiles.CssScope = b-nmpw60cs60
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-jh32zxqutr
 
-[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-tlx2bnor2l
+[C:/Users/mesut/projects/net-blazor/IconGeneratorAI/src/IconGeneratorAI.WebApp/Components/Pages/HomeStructure.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lU3RydWN0dXJlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-t5a6h26d8v

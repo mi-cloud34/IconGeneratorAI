@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "IconGeneratorAI.WebApp.Client",
   "resources": {
-    "hash": "sha256-EgydY4drWa0az0Sbsi5tZT97Y/vH8rncYe1XkSLr1bw=",
+    "hash": "sha256-RpUvafVgSwtvgFtszb7MJjkIK4cVUUp7xkrDAF8sINY=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -214,12 +214,12 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "IconGeneratorAI.Domain.5u2pnmljow.wasm": "IconGeneratorAI.Domain.wasm",
-      "IconGeneratorAI.Shared.iu1r9slto7.wasm": "IconGeneratorAI.Shared.wasm",
-      "IconGeneratorAI.Domain.g9il4tt5un.pdb": "IconGeneratorAI.Domain.pdb",
-      "IconGeneratorAI.Shared.wmd6z8pa8c.pdb": "IconGeneratorAI.Shared.pdb",
-      "IconGeneratorAI.WebApp.Client.42e10356ce.wasm": "IconGeneratorAI.WebApp.Client.wasm",
-      "IconGeneratorAI.WebApp.Client.7xjynf3atb.pdb": "IconGeneratorAI.WebApp.Client.pdb"
+      "IconGeneratorAI.Domain.eo5zrqv7ki.wasm": "IconGeneratorAI.Domain.wasm",
+      "IconGeneratorAI.Shared.f9o3xka8ny.wasm": "IconGeneratorAI.Shared.wasm",
+      "IconGeneratorAI.Domain.ylt96szmby.pdb": "IconGeneratorAI.Domain.pdb",
+      "IconGeneratorAI.Shared.aoaw8o2yyk.pdb": "IconGeneratorAI.Shared.pdb",
+      "IconGeneratorAI.WebApp.Client.g1tx80vdev.wasm": "IconGeneratorAI.WebApp.Client.wasm",
+      "IconGeneratorAI.WebApp.Client.eg7v2acsd0.pdb": "IconGeneratorAI.WebApp.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
@@ -442,14 +442,14 @@
       "WindowsBase.tuf34ieu7y.wasm": "sha256-Bd+l972cOS1eVeLzrQNlgD6LPWV1QXBSzJhv8Tx1WGI=",
       "mscorlib.5q5u0swn6q.wasm": "sha256-g9cI1sECkF7bxMqOSB+W0a4utdDsqTrqZzyiAEeA65g=",
       "netstandard.w8gk1pigg1.wasm": "sha256-QFR5QNPfvyZTexW3IA/AFx6ZmIF/TecvOUsSK4gM4po=",
-      "IconGeneratorAI.Domain.5u2pnmljow.wasm": "sha256-nXncGz28OM0LRtEnvJbvTHnMGWfNW1EFpNhiSo+Bz9U=",
-      "IconGeneratorAI.Shared.iu1r9slto7.wasm": "sha256-GmthC0YQ028vuSe+AcqGy0O1738cRBDIitSgPAG8GZE=",
-      "IconGeneratorAI.WebApp.Client.42e10356ce.wasm": "sha256-lEaqltr69HPnYS0BSL95Y69KQ70DDMdqvTIvjKKZY/4="
+      "IconGeneratorAI.Domain.eo5zrqv7ki.wasm": "sha256-flqEIZ89IM5aly6WIUNesf7l/cFWEfUm0/h6kx/opns=",
+      "IconGeneratorAI.Shared.f9o3xka8ny.wasm": "sha256-bTEjEE+cjQHqwfwle14rAPunhd/YxWvSaDlkC/jAaM0=",
+      "IconGeneratorAI.WebApp.Client.g1tx80vdev.wasm": "sha256-REmrDcHK6kYnr7WpnRUzcsOu2EA7aq7/PHP0YL4sOLk="
     },
     "pdb": {
-      "IconGeneratorAI.Domain.g9il4tt5un.pdb": "sha256-tHcQ+f2wNht8/W6EZV7txhYpY2vknnMrDEPEM44WA4Y=",
-      "IconGeneratorAI.Shared.wmd6z8pa8c.pdb": "sha256-iL3JUC5rHwwlp2HtqoQfMo29bYMnno8pQQBGQ8Meor4=",
-      "IconGeneratorAI.WebApp.Client.7xjynf3atb.pdb": "sha256-W1xKPteCCMtK1tqq9xb9I+lNq12AFHX5HShhRI2PbXQ="
+      "IconGeneratorAI.Domain.ylt96szmby.pdb": "sha256-JmQmpRsJQE4rmhM0zbjUTDcwelssJ/Qb3pPrmJ59iAY=",
+      "IconGeneratorAI.Shared.aoaw8o2yyk.pdb": "sha256-9vm36Ug00MP++ggldyHo8Gm5OTKzovtnWWXkq7yaYFI=",
+      "IconGeneratorAI.WebApp.Client.eg7v2acsd0.pdb": "sha256-fqFEoMGkiG4/QdqH0DE96OAbZTSt5LZOm6vQhRA4o48="
     },
     "libraryInitializers": {
       "_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.lib.module.js": "sha256-htNuF2gbem5vP85zcYVih92CTJrIeZj4ghrN/AHd9VM="

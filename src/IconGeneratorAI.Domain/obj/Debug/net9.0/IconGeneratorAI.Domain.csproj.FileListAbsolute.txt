@@ -6,6 +6,7 @@ C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\ob
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.AssemblyInfoInputs.cache
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.AssemblyInfo.cs
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.sourcelink.json
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.dll
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\refint\IconGeneratorAI.Domain.dll
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Domain\obj\Debug\net9.0\IconGeneratorAI.Domain.pdb

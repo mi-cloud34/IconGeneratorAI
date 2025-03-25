@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IconGeneratorAI.WebApp.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37699bdb85e2aa757513af5e384faecde6d6e220")]
 [assembly: System.Reflection.AssemblyProductAttribute("IconGeneratorAI.WebApp.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IconGeneratorAI.WebApp.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

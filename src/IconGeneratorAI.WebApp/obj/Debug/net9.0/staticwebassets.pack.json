@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IconGeneratorAI.WebApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\IconGeneratorAI.WebApp.vt3guu9cal.bundle.scp.css"
+      "PackagePath": "staticwebassets\\IconGeneratorAI.WebApp.apwvum9pf9.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\app.css",
@@ -13,8 +13,44 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\adult-light-skin-tone.svg",
+      "PackagePath": "staticwebassets\\icons\\adult-light-skin-tone.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\deaf-woman-medium-light-skin-tone.svg",
+      "PackagePath": "staticwebassets\\icons\\deaf-woman-medium-light-skin-tone.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\drooling-face.svg",
+      "PackagePath": "staticwebassets\\icons\\drooling-face.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\fire.svg",
+      "PackagePath": "staticwebassets\\icons\\fire.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\google-color.svg",
+      "PackagePath": "staticwebassets\\icons\\google-color.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\hundred-points.svg",
+      "PackagePath": "staticwebassets\\icons\\hundred-points.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\lightning.svg",
+      "PackagePath": "staticwebassets\\icons\\lightning.svg"
+    },
+    {
       "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\magic-stick-3-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\icons\\magic-stick-3-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\rocket.svg",
+      "PackagePath": "staticwebassets\\icons\\rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp\\wwwroot\\icons\\star-struck.svg",
+      "PackagePath": "staticwebassets\\icons\\star-struck.svg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IconGeneratorAI.WebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

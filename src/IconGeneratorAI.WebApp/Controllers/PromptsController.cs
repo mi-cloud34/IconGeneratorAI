@@ -19,7 +19,7 @@ namespace IconGeneratorAI.WebApp.Controllers
 
             // 3) Add the "gemma2:latest" for Turkish translation.
             builder.AddOllamaChatCompletion(
-           modelId: "deepseek-r1:1.5b",
+           modelId: "ollama run gemma2",
            endpoint: new Uri("http://localhost:11434"),
            serviceId: "promptImprovementService"
            );

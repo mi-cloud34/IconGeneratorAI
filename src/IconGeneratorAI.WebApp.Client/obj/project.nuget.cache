@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "49N5rkKny1A=",
+  "dgSpecHash": "xJ7FVwa5mho=",
   "success": true,
   "projectFilePath": "C:\\Users\\mesut\\projects\\net-blazor\\IconGeneratorAI\\src\\IconGeneratorAI.WebApp.Client\\IconGeneratorAI.WebApp.Client.csproj",
   "expectedPackageFiles": [
@@ -40,9 +40,9 @@
     "C:\\Users\\mesut\\.nuget\\packages\\microsoft.fluentui.aspnetcore.components\\4.11.3\\microsoft.fluentui.aspnetcore.components.4.11.3.nupkg.sha512",
     "C:\\Users\\mesut\\.nuget\\packages\\microsoft.jsinterop\\9.0.1\\microsoft.jsinterop.9.0.1.nupkg.sha512",
     "C:\\Users\\mesut\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.0\\microsoft.jsinterop.webassembly.9.0.0.nupkg.sha512",
-    "C:\\Users\\mesut\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
-    "C:\\Users\\mesut\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.2\\microsoft.net.sdk.webassembly.pack.9.0.2.nupkg.sha512",
-    "C:\\Users\\mesut\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.2.nupkg.sha512"
+    "C:\\Users\\mesut\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.3\\microsoft.net.illink.tasks.9.0.3.nupkg.sha512",
+    "C:\\Users\\mesut\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.3\\microsoft.net.sdk.webassembly.pack.9.0.3.nupkg.sha512",
+    "C:\\Users\\mesut\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.3.nupkg.sha512"
   ],
   "logs": []
 }

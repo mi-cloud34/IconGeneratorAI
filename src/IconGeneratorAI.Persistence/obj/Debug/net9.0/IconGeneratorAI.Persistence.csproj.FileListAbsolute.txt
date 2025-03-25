@@ -9,6 +9,7 @@ C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persisten
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persistence\obj\Debug\net9.0\IconGeneratorAI.Persistence.AssemblyInfoInputs.cache
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persistence\obj\Debug\net9.0\IconGeneratorAI.Persistence.AssemblyInfo.cs
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persistence\obj\Debug\net9.0\IconGeneratorAI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persistence\obj\Debug\net9.0\IconGeneratorAI.Persistence.sourcelink.json
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persistence\obj\Debug\net9.0\IconGene.2EE1088A.Up2Date
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persistence\obj\Debug\net9.0\IconGeneratorAI.Persistence.dll
 C:\Users\mesut\projects\net-blazor\IconGeneratorAI\src\IconGeneratorAI.Persistence\obj\Debug\net9.0\refint\IconGeneratorAI.Persistence.dll
